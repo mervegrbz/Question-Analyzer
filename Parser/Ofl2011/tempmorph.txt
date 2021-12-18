@@ -1,0 +1,22 @@
+******	******	+?
+
+dünyanın	dünya+Noun+A3sg+Pnon+Gen
+dünyanın	dünya+Noun+A3sg+P2sg+Gen
+
+çevresi	çevre+Noun+A3sg+P3sg+Nom
+çevresi	çevre+Noun+A3sg+Pnon+Nom^DB+Adj+JustLike
+
+ne	ne	+Adverb
+ne	ne	+Conj
+ne	ne	+Adj
+ne	ne	+Pron+Ques+A3sg+Pnon+Nom
+
+kadar	kadar	+Noun+A3sg+Pnon+Nom
+kadar	kadar	+Postp+PCNom
+kadar	kadar	+Postp+PCGen
+kadar	kadar	+Postp+PCDat
+
+.	.	+?
+
+******	******	+?
+
