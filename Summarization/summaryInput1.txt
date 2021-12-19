@@ -1,4 +1,4 @@
-Question: dünyanın çevresi ne kadar
+Question: dünyanın çevresi nedir
 Answer: WRONG ANSWER
 Doc1:0:<DOC>
 <DOCNO></DOCNO>
